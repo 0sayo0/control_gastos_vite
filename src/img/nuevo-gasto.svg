@@ -1,0 +1,6 @@
+<!-- <svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.54 321.54"><defs><style>.cls-1{fill:#00B5A4;}.cls-2{fill:#fff;}</style></defs><circle class="cls-1" cx="160.77" cy="160.77" r="160.77"/><rect class="cls-2" x="146.15" y="85.77" width="29.23" height="150"/><rect class="cls-2" x="167.61" y="107.23" width="29.23" height="150" transform="translate(-21.46 343) rotate(-90)"/></svg> -->
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-plus" width="40" height="40" viewBox="0 0 24 24" stroke-width="2.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M12 5l0 14" />
+  <path d="M5 12l14 0" />
+</svg>
